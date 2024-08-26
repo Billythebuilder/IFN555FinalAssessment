@@ -1,0 +1,15 @@
+/Users/pc/Projects/QueenslandTalent/QueenslandTalent/bin/Debug/net7.0/QueenslandTalent
+/Users/pc/Projects/QueenslandTalent/QueenslandTalent/bin/Debug/net7.0/QueenslandTalent.deps.json
+/Users/pc/Projects/QueenslandTalent/QueenslandTalent/bin/Debug/net7.0/QueenslandTalent.runtimeconfig.json
+/Users/pc/Projects/QueenslandTalent/QueenslandTalent/bin/Debug/net7.0/QueenslandTalent.dll
+/Users/pc/Projects/QueenslandTalent/QueenslandTalent/bin/Debug/net7.0/QueenslandTalent.pdb
+/Users/pc/Projects/QueenslandTalent/QueenslandTalent/obj/Debug/net7.0/QueenslandTalent.csproj.AssemblyReference.cache
+/Users/pc/Projects/QueenslandTalent/QueenslandTalent/obj/Debug/net7.0/QueenslandTalent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pc/Projects/QueenslandTalent/QueenslandTalent/obj/Debug/net7.0/QueenslandTalent.AssemblyInfoInputs.cache
+/Users/pc/Projects/QueenslandTalent/QueenslandTalent/obj/Debug/net7.0/QueenslandTalent.AssemblyInfo.cs
+/Users/pc/Projects/QueenslandTalent/QueenslandTalent/obj/Debug/net7.0/QueenslandTalent.csproj.CoreCompileInputs.cache
+/Users/pc/Projects/QueenslandTalent/QueenslandTalent/obj/Debug/net7.0/QueenslandTalent.dll
+/Users/pc/Projects/QueenslandTalent/QueenslandTalent/obj/Debug/net7.0/refint/QueenslandTalent.dll
+/Users/pc/Projects/QueenslandTalent/QueenslandTalent/obj/Debug/net7.0/QueenslandTalent.pdb
+/Users/pc/Projects/QueenslandTalent/QueenslandTalent/obj/Debug/net7.0/QueenslandTalent.genruntimeconfig.cache
+/Users/pc/Projects/QueenslandTalent/QueenslandTalent/obj/Debug/net7.0/ref/QueenslandTalent.dll
